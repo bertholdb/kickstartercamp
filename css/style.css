@@ -110,7 +110,7 @@ a:focus{
 	   -moz-background-size: cover;
 	     -o-background-size: cover;
 	        background-size: cover;
-	padding: 100px -0px 360px;
+	padding: 100px -0px 260px;
 	text-align: center;
 }
 
@@ -185,7 +185,7 @@ a:focus{
 
 #header h3 {
 	color: #fff;
-	margin-bottom: 50px;
+	margin-bottom: 12px;
 }
 
 #header h3 span {
@@ -373,7 +373,7 @@ a:focus{
 *************************/
 
 .contact {
-	background: #555555;
+	background: #ACACAC;
 	color: #ffffff;
 }
 
