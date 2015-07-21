@@ -112,12 +112,12 @@ a:focus{
 	   -moz-background-size: cover;
 	     -o-background-size: cover;
 	        background-size: cover;
-	padding: 100px -0px 160px;
+	padding: 50px -0px 100px;
 	text-align: center;
 }
 
 #header .navbar {
-	background: rgba(0, 173, 242, 0.68);
+	background: #909090;
 }
 
 .navbar-nav>li>a {
@@ -191,7 +191,7 @@ a:focus{
 }
 
 #header h3 span {
-	background-color: #009ddc;
+	background-color: #909090;
 	padding: 3px 10px 5px;
 	line-height: 38px;
 }
@@ -450,7 +450,7 @@ color: #111111;
 }
 
 #footer h3 span {
-	background-color: #009ddc;
+	background-color: #909090;
 	padding: 3px 10px 5px;
 	line-height: 38px;
 }
